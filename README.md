@@ -7,6 +7,7 @@
 - [QA란?](/QA/QA란.md)
 - [버그리포트 작성법](/QA/버그리포트%20작성법.md)
 - [JIRA 사용법]
+- [1. 테스팅의 기초](/QA/1.%20테스팅의%20기초.md)
 ## HTML
 - [HTML](/HTML/HTML.md)
 - [HTML5란?](/HTML/HTML5의%20다른점.md)
